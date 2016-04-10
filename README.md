@@ -1,2 +1,2 @@
 # carbon
-The augmented reality sytem that processes live video, object tracking, object recognition and three dimensional user interfaces.
+The augmented reality system that processes live video, object tracking, object recognition and three dimensional user interfaces.
